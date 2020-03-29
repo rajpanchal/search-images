@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/search-infinity/static/css/main.310e5213.chunk.css",
+    "main.js": "/search-infinity/static/js/main.267f7659.chunk.js",
+    "main.js.map": "/search-infinity/static/js/main.267f7659.chunk.js.map",
+    "runtime-main.js": "/search-infinity/static/js/runtime-main.fdf78b71.js",
+    "runtime-main.js.map": "/search-infinity/static/js/runtime-main.fdf78b71.js.map",
+    "static/js/2.ce8850ca.chunk.js": "/search-infinity/static/js/2.ce8850ca.chunk.js",
+    "static/js/2.ce8850ca.chunk.js.map": "/search-infinity/static/js/2.ce8850ca.chunk.js.map",
+    "index.html": "/search-infinity/index.html",
+    "precache-manifest.f72d5a182362037f9ca331dec664008e.js": "/search-infinity/precache-manifest.f72d5a182362037f9ca331dec664008e.js",
+    "service-worker.js": "/search-infinity/service-worker.js",
+    "static/css/main.310e5213.chunk.css.map": "/search-infinity/static/css/main.310e5213.chunk.css.map",
+    "static/js/2.ce8850ca.chunk.js.LICENSE.txt": "/search-infinity/static/js/2.ce8850ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf78b71.js",
+    "static/js/2.ce8850ca.chunk.js",
+    "static/css/main.310e5213.chunk.css",
+    "static/js/main.267f7659.chunk.js"
+  ]
+}
